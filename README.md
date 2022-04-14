@@ -1,5 +1,4 @@
-# Django E-commerce
-
+# Django E-commerce<img align="right" alt="django" src="django-ecommerce/shoppycom/media/productimg/django.png?raw=true" width="350" height="80" />
 This is a very simple e-commerce website built with Django.
 
 ## Project Summary
